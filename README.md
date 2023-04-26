@@ -3,11 +3,11 @@ chatgpt 中文语料库
 
 交流群：558195310
 
-中文指南
+## 中文指南
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
-# GPT生成
+## GPT生成
 
 [问题表](./question/README.md)
 
