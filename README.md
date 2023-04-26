@@ -1,6 +1,8 @@
 # chatgpt-corpus
 chatgpt 中文语料库
 
+交流群：558195310
+
 中文指南
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
