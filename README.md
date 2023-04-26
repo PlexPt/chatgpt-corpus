@@ -3,6 +3,10 @@ chatgpt 中文语料库
 
 交流群：558195310
 
+项目合作洽谈请联系微信 （在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考上文入群讨论，不要加此微信）。
+
+https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+
 ## 中文指南
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
