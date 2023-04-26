@@ -9,6 +9,6 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 [问题表](./question/README.md)
 
-共约67万个中文问题，欢迎拿去炼丹。
+由 ChatGPT3.5 生成，共约67万个中文问题，欢迎拿去炼丹。
 
 
