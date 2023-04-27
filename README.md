@@ -17,4 +17,8 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 由 ChatGPT3.5 生成，共约67万个中文问题，欢迎拿去炼丹。
 
+## 更新
+
+更多语料正在清洗中，洗干净了更新...
+
 
