@@ -25,3 +25,6 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 https://github.com/codemayq/chinese_chatbot_corpus
 
+https://github.com/chenking2020/FindTheChatGPTer
+
+https://github.com/esbatmop/MNBVC
