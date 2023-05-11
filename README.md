@@ -21,4 +21,7 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 更多语料正在清洗中，洗干净了更新...
 
+## 其他语料库
+
+https://github.com/codemayq/chinese_chatbot_corpus
 
