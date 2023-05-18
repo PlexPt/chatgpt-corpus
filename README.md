@@ -21,6 +21,16 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 太大了这里传不了。需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
 
+## 客服语料
+
+由 ChatGPT3.5 生成的客服问答，需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+
+
+## ChatGPT3.5 生成的小说和小说大纲
+
+需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+
+
 ## 网络小说
 
 共约7000中文网络小说。太大了这里传不了。需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
