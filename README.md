@@ -19,7 +19,7 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ## 300万GPT3.5自问自答数据
 
-太大了这里传不了。需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+ https://github.com/PlexPt/chatgpt-corpus/releases/tag/3
 
 ## 客服语料
 
