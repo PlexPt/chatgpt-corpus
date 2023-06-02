@@ -43,7 +43,9 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ## 更新
 
-更多语料正在清洗中，洗干净了更新...
+更多语料正在清洗中，洗干净了更新... 更多消息请关注公众号
+
+ <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> 
 
 ## 其他语料库
 
