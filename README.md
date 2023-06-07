@@ -19,7 +19,10 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ## 300万GPT3.5自问自答数据
 
- https://github.com/PlexPt/chatgpt-corpus/releases/tag/3
+ 下载地址 https://github.com/PlexPt/chatgpt-corpus/releases/tag/3
+ 
+ ![image](https://github.com/PlexPt/chatgpt-corpus/assets/15922823/338fd738-aad7-4963-9f2b-513a7c475e2f)
+
 
 ## 客服语料
 
