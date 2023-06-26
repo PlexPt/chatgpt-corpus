@@ -26,7 +26,9 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ## 客服语料
 
-由 ChatGPT3.5 生成的客服问答，需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+由 ChatGPT3.5 生成的客服问答，总数约约约约 200万条
+
+预览和下载 https://github.com/PlexPt/chatgpt-corpus/tree/main/kefu
 
 
 ## ChatGPT3.5 生成的小说和小说大纲
