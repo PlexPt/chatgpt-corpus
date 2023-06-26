@@ -31,8 +31,9 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ## ChatGPT3.5 生成的小说和小说大纲
 
-下载地址 https://github.com/PlexPt/chatgpt-corpus/releases/tag/4
-下载地址 https://github.com/PlexPt/chatgpt-corpus/releases/tag/4
+下载地址 
+- 大纲 [大纲](https://github.com/PlexPt/chatgpt-corpus/tree/main/novel-outline)
+- 小说 https://github.com/PlexPt/chatgpt-corpus/releases/tag/4
 
 ### 预览 
 
