@@ -48,14 +48,8 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 
 
-## 网络小说
-
-共约7000中文网络小说。太大了这里传不了。需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
-
-
-## 古书资源
-
-共 2T+古书资源。太大了这里传不了。需要的请联系 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
+## GPT API 中转购买
+[GPT API 额度购买(微信)](https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597)
 
 
 ## 更新
